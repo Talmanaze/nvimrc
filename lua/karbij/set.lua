@@ -1,3 +1,4 @@
+print("set")
 vim.opt.nu = true
 vim.opt.relativenumber = true
 
@@ -12,7 +13,7 @@ vim.opt.wrap = false
 
 vim.opt.swapfile = false
 vim.opt.backup = false
-vim.opt.undodir = "~/.vim/undodir"
+vim.opt.undodir = "C:Users/Talmanaze/.vim/undodir"
 vim.opt.undofile = true
 
 vim.opt.hlsearch = false
